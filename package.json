@@ -1,0 +1,12 @@
+{
+  "name": "snapshoot",
+  "version": "0.0.1",
+  "main": "src",
+  "repository": "git@github.com:didierfranc/snapshoot.git",
+  "author": "Didier Franc <didierfranc@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pixelmatch": "^4.0.2",
+    "pngjs": "^3.3.1"
+  }
+}
